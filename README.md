@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @rkgeekoftheweek [Ravi K]
-- 👀 My skills : Bigdata, python , Mysql , airflow , AWS , databricks , Azure , Pyspark , tableau , data science
+- 👀 My skills : Bigdata, python , Mysql , airflow , AWS , databricks , Azure , Pyspark , PowerBI
+-  , data science
 - 🌱 I’m currently working as Data analyst
 - 💞️ Ping me if you have interesting projects in data engineering and data science
 - 📫 rkgeekoftheweek@gmail.com
